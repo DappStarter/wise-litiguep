@@ -1,0 +1,16 @@
+{
+    "name": "donation-investment-platform",
+    "blocks": {
+        "/blockchain/ethereum": true,
+        "/blockchain/ethereum/solidity": true,
+        "/framework/react": true,
+        "/category/access_control/contract_runstate": true,
+        "/category/access_control/administrator_role": true,
+        "/category/asset_value_tracking/token": true,
+        "/category/asset_value_tracking/token/name": "Custom Token",
+        "/category/asset_value_tracking/token/symbol": "Symbol",
+        "/category/asset_value_tracking/token/decimals": "16",
+        "/category/asset_value_tracking/token/supply": "1000000",
+        "/category/collection/entity": true
+    }
+}
